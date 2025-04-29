@@ -47,7 +47,7 @@ npm start
 🌐 Deployment
 You can view the live demo of the app here:
 
-🔗 https://everbuy.netlify.app/
+🔗 earthlyencounters.netlify.app
 
 
 🤝 Contributing
