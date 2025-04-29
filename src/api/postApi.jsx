@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL:"https://restcountries.com/v3.1"
+    baseURL:""
 })
 
 export const getCountry = () => {
