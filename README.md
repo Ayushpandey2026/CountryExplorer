@@ -26,22 +26,11 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/ayushpandey02003@gmail.com/countryexplorer.git
 cd countryexplorer
 Install dependencies:
-
-bash
-Copy
-Edit
 npm install
 Start the development server:
-
-bash
-Copy
-Edit
 npm start
 
 🌐 Deployment
